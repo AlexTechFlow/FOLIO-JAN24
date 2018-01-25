@@ -249,10 +249,37 @@ span.intro-dark {
 }
 .circle-yellow {
 	position: relative;
-	top:-300px;
-
+	top:-250px;
+	right: -120px;
 }
 
+.circle {
+	position: relative;
+	top:-180px;
+	right: -940px;
+}
+
+.square1 {
+	position: relative;
+	top:-550px;
+	right: -540px;
+	width: 2%;
+	opacity: .7;
+}
+
+.octagon1 {
+	position: relative;
+	top:-570px;
+	right: -240px;
+	opacity: .7;
+}
+
+.romb-red {
+	position: relative;
+	top:-590px;
+	right: 45px;
+
+}
 
 
 /*-----------------------------------------------1/3 COLUMN SECTION BEGINS----------------------------------*/
